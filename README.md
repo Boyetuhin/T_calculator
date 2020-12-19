@@ -1,6 +1,10 @@
-# new_calculator
+# Calculator
 
-A new Flutter project.
+A simple cross platform Flutter Calculator App
+
+
+
+
 
 ## Getting Started
 
