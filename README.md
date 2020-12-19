@@ -1,6 +1,6 @@
 # Calculator
 
-A simple cross platform Flutter Calculator App
+A simple cross platform Flutter Calculator App ✨
 ![my calculator app](https://user-images.githubusercontent.com/36539534/102699105-4a914b00-4268-11eb-9a43-adfbfea9200d.jpg)
 
 
